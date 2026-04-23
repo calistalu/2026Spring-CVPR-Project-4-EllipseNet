@@ -1,0 +1,21 @@
+# Ignore everything by default
+*
+
+# Keep git metadata files
+!.gitignore
+!README.md
+
+# Keep only these top-level directories
+!tools/
+!tools/**
+!yolo-v1/
+!yolo-v1/**
+
+# But exclude these subdirectories inside yolo-v1
+yolo-v1/wandb/
+yolo-v1/tools/
+yolo-v1/models/
+yolo-v1/resources/
+
+__pycache__/
+*.pyc
