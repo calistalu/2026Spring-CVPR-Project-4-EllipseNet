@@ -1,0 +1,7 @@
+weights=/gpfsnyu/scratch/yl12006/cv/yolo-v1/models/yolo_v1/04_18_2026/11_39_39/weights/epoch_025.pt
+iou_thresholds=[0.5, 0.75]
+score_threshold=0.2
+nms_max_overlap=0.5
+test_loss=1.55195766
+[IoU@0.50] precision=0.313537 recall=0.459890 mAP=0.306082
+[IoU@0.75] precision=0.117373 recall=0.172160 mAP=0.072733

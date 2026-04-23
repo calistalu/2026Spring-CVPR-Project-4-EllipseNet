@@ -1,0 +1,6 @@
+Top 5 trials by best_val_loss
+1. trial=17 val=0.993273 train=0.756527 lr=1.00e-04 bs=64 l_coord=2.0 l_theta=2.0 l_noobj=0.1
+2. trial=19 val=1.042921 train=0.795570 lr=1.00e-04 bs=64 l_coord=2.0 l_theta=5.0 l_noobj=0.1
+3. trial=33 val=1.179675 train=1.147188 lr=1.00e-05 bs=64 l_coord=2.0 l_theta=2.0 l_noobj=0.1
+4. trial=21 val=1.205035 train=1.020050 lr=1.00e-04 bs=64 l_coord=5.0 l_theta=2.0 l_noobj=0.1
+5. trial=23 val=1.229920 train=1.053842 lr=1.00e-04 bs=64 l_coord=5.0 l_theta=5.0 l_noobj=0.1
